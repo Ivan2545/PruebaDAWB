@@ -11,4 +11,4 @@ Aqui vamos a tenr todo lo necesario, para nuesyto primer <Hola Mundo>
   
   2ºVamos a trabajar el control de versiones enlazando Eclipse con Git
   
-|[*Git*](https://avatars.githubusercontent.com/u/18133?s=200&v=4)
+![*Git*](https://avatars.githubusercontent.com/u/18133?s=200&v=4)
